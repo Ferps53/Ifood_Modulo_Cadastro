@@ -4,7 +4,6 @@ import dto.AdicionarPratoDTO;
 import dto.AdicionarRestauranteDTO;
 import dto.PratoDTO;
 import dto.RestauranteDTO;
-import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.NotFoundException;
